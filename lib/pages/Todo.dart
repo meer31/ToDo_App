@@ -84,7 +84,7 @@ class TodoState extends State<Todo>{
                     color: Colors.black
                   ),
                  decoration: InputDecoration(
-                   hintText: "Add a new ToDo items",
+                   hintText: "Add a new items in ToDo",
                    fillColor: Colors.deepPurple.shade200,
                    filled: true,
                    enabledBorder: OutlineInputBorder(
